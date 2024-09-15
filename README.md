@@ -1,7 +1,7 @@
 # Image Search Engine
 
 ## Overview
-- I built an image search engine using Unsplash's API.
+- I built a simple image search engine using Unsplash's API.
 
 ## Competencies
 - JavaScript
